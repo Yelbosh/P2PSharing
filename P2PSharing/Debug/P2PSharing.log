@@ -1,0 +1,22 @@
+﻿生成启动时间为 2014/8/20 20:54:41。
+     1>项目“C:\Users\asus\Desktop\VSP2P\bs\P2PSharing\P2PSharing\P2PSharing.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\P2PSharing.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         P2PSharing.vcxproj -> C:\Users\asus\Desktop\VSP2P\bs\P2PSharing\Debug\P2PSharing.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\asus\Desktop\VSP2P\bs\P2PSharing\Debug\P2PSharing.exe.manifest" /manifest Debug\P2PSharing.exe.intermediate.manifest D:\VS2010\VC\Include\Manifest\dpiaware.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\P2PSharing.unsuccessfulbuild”。
+         正在对“Debug\P2PSharing.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\asus\Desktop\VSP2P\bs\P2PSharing\P2PSharing\P2PSharing.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.50
